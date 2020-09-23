@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    flex: column;
+}
+
+div {
+    width: 100%;
+    margin: 5%;
+    border: solid black 1px;
+
+}
+
+.lg1{}
+.lg2{}
+.lg3{}
+.lg4{}
+.lg5{}
+.lg6{}
+.lg7{}
+
