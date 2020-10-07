@@ -1,8 +1,48 @@
 p{
     color: rgb(0 180 0);
-    font-size: 50px;
+    font-size: 40px;
 }
 
-em{
+#curentcolor{
     color: currentColor;
+}
+
+#initial{
+    color: initial;
+}
+
+#hex1{
+    color: #00FF00;
+}
+
+#rgb1{
+    color: rgb(0 255 0);
+}
+
+#rgb2{
+    color: rgb(50% 50% 90%);
+}
+
+#hsl1{
+    color: hsl(10deg 100% 50%);
+}
+
+#hsl2{
+    color: hsl(10deg 50% 50%);
+}
+
+#hsl3{
+    color: hsl(10deg 100% 30%);
+}
+
+#trans{
+    color: transparent;
+}
+
+#gray{
+    color: gray(0.5);
+}
+
+body{
+    /*ackground-color: black;*/
 }
